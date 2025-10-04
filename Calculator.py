@@ -1,6 +1,3 @@
-# Python Calculator - Interactive Version
-# Works perfectly with VS Code + Pylance
-
 print("Welcome to the Python Calculator!")
 
 while True:
@@ -52,3 +49,4 @@ while True:
 
     # Step 5: Show result
     print(f"The result of {num1} {operation} {num2} is: {result} Thank you for using the calculator. Goodbye!")
+
